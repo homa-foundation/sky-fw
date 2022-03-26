@@ -1,0 +1,19 @@
+{
+  "name": "sky-fw",
+  "version": "1.0.0",
+  "description": "Crossplatform typescript software development framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homa-foundation/sky-fw.git"
+  },
+  "author": "Navid.Means.Promise",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/homa-foundation/sky-fw/issues"
+  },
+  "homepage": "https://github.com/homa-foundation/sky-fw#readme"
+}
